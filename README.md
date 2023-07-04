@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-contributor-stats.vercel.app/api?username=wapborhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=wapborhan&limit=10&theme=tokyonight&combine_all_yearly_contributions=true)
